@@ -9,7 +9,7 @@
 
 
 &nbsp;
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
@@ -34,7 +34,7 @@
 <br />
 
 &nbsp;
-### Connect with me:
+## Connect with me:
 <h5>
   <a href="https://www.linkedin.com/in/abhijeet-mavi-57ab36202">   
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />

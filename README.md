@@ -1,7 +1,7 @@
 # Hi there, I'm Abhijeet Mavi 👋 
 
 - 🔭 I’m currently working at Mindtree
-- 💬 Ask me about Web Application Development or any tech related stuff
+- 💬 Ask me about Web App Development or any tech related stuff
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
 - 🥅 2022 Goals: Learn more about web3

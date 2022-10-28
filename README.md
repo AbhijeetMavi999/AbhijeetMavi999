@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I spent almost 6-7 hours listening lofi hip hop music
+- ⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
 
 
 &nbsp;

@@ -1,6 +1,6 @@
 # Hi there, I'm Abhijeet Mavi 👋 
 
-[//]: <> (- 🔭 I’m currently working at Mindtree)
+- 🔭 I’m currently working at Mindtree
 - 💬 Ask me about Web App Development or any tech related stuff
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate

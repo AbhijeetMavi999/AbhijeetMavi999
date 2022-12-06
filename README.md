@@ -1,10 +1,10 @@
 # Hi there, I'm Abhijeet Mavi 👋 
 
-- 🔭 I’m currently working at Mindtree
+- 🔭 I’m currently working at LTIMindtree
 - 💬 Ask me about Web App Development or any tech related stuff
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate
-- 🥅 2022 Goals: Learn more about web3
+<!-- - 👯 I’m looking to collaborate -->
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
 
 

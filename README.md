@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working at LTIMindtree
 - 💬 Ask me about Web App Development or any tech related stuff
-- 🌱 I’m currently learning everything 🤣
-<!-- - 👯 I’m looking to collaborate -->
-- 🥅 2023 Goals: Learn more about web3
+- 🌱 I’m currently learning UI/UX Designing
+- 🥅 2023 Goals: Learn more about web application and UI/UX designing
 - ⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
+- <!-- - 👯 I’m looking to collaborate -->
 
 
 &nbsp;

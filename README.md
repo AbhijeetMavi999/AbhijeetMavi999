@@ -2,10 +2,11 @@
 
 - 🔭 I’m currently working at LTIMindtree
 - 💬 Ask me about Web App Development or any tech related stuff
-- 🌱 I’m currently learning UI/UX Designing
-- 🥅 2023 Goals: Learn more about web application and UI/UX designing
-- ⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
-
+- 🌱 I’m currently learning @AWS
+- 🥅 2023 Goals: Learn more about web application and AWS
+<!---
+⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
+--->
 
 &nbsp;
 ## Languages and Tools:
@@ -36,7 +37,9 @@
 
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
+<!---
 <img align="left" alt="figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+--->
 
 <br />
 

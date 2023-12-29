@@ -1,9 +1,9 @@
 # Hi there, I'm Abhijeet Mavi 👋 
 
 - 🔭 I’m currently working at LTIMindtree
-- 💬 Ask me about Web App Development or any tech related stuff
-- 🌱 I’m currently learning @AWS
-- 🥅 2023 Goals: Learn more about web application and AWS
+- 💬 Ask me about any tech related stuff
+- 🌱 I’m currently learning @AWS @GCP @Azure
+- 🥅 2024 Goals: Learn more about Cloud Technologies
 <!---
 ⚡ Fun fact: I spent almost 4-5 hours listening lofi hip hop music
 --->

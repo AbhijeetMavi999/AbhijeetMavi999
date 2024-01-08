@@ -49,7 +49,7 @@
 
 <img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" alt="aws"/>
 
-<img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding:10px;"  alt="gcp"/>
+<p align="left" alt="azure" width="26px" style="padding:10px;"><img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/></p>
 <br /> 
 
 &nbsp;

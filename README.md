@@ -41,13 +41,9 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="padding-right:10px;" alt="kubernetes"/>
 
 <img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" alt="aws"/>
 
 <p align="left" alt="azure" width="26px" style="padding:10px;"><img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/></p>
 <br /> 

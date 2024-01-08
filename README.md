@@ -47,8 +47,8 @@
 
 <img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" alt="aws"/>
 
-<img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px; padding-top:10px"  alt="gcp"/>
-<br />
+<img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px; padding-top:10px;"  alt="gcp"/>
+<br /> 
 
 &nbsp;
 ## Connect with me:

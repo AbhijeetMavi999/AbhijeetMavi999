@@ -13,6 +13,8 @@
 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -47,7 +49,7 @@
 
 <img align="left" alt="azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" alt="aws"/>
 
-<img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px; padding-top:10px;"  alt="gcp"/>
+<img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding:10px;"  alt="gcp"/>
 <br /> 
 
 &nbsp;

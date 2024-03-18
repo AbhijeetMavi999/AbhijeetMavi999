@@ -47,8 +47,6 @@
 
 <img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" style="padding-right:10px;" />
-
 <!--- <p align="left" alt="azure" width="26px" style="padding:10px;"><img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/></p> --->
 <br /> 
 

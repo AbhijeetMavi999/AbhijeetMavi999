@@ -21,9 +21,9 @@
 
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<!--- <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> --->
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
@@ -37,6 +37,8 @@
 
 <img align="left" alt="jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
+
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
@@ -45,7 +47,9 @@
 
 <img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 
-<p align="left" alt="azure" width="26px" style="padding:10px;"><img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/></p>
+<img align="left" alt="azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" style="padding-right:10px;" />
+
+<!--- <p align="left" alt="azure" width="26px" style="padding:10px;"><img align="left" alt="azure" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/></p> --->
 <br /> 
 
 &nbsp;

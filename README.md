@@ -1,10 +1,26 @@
 # Hi there, I'm Abhijeet Mavi 👋 
 
+👨‍💻 About Me <br>
+- 🔭 Working as a Java Developer at LTIMindtree, with hands-on experience in backend development, RESTful APIs, and microservices architecture. <br>
+- 💬 Ask me about Java, Spring Boot, Microservices, APIs, or anything tech-related!
+
+🌱 Currently Learning
+- Exploring Cloud Technologies:
+- AWS, GCP, Azure
+- Building resilient, scalable applications
+- Integrating cloud-native services and tools
+
+🚀 2025 Goals
+- Master Cloud Technologies and achieve proficiency in AWS, GCP, and Azure.
+- Improve skills in microservices optimization and real-time data processing.
+
+⚡Feel free to reach out if you'd like to chat about Java, cloud computing, microservices, or anything tech! 😊
+
+<!---
 - 🔭 I’m currently working at LTIMindtree
 - 💬 Ask me about any tech related stuff
 - 🌱 I’m currently learning @AWS @GCP @Azure
 - 🥅 2024 Goals: Learn more about Cloud Technologies
-<!---
 ⚡ Fun fact: 
 --->
 
